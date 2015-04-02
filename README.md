@@ -7,4 +7,3 @@ Basic web template with:
   - combine media queries (cmq) 
   - combine javascript files
 - jQuery 1.11.2
-- 
