@@ -6,5 +6,10 @@ Basic web template with:
   - sprites
   - combine media queries (cmq) 
   - combine javascript files
+  - minify CSS
+  - combine JS
+  - minify JS
   - JS Hint
 - jQuery 1.11.2
+
+Run "npm install" in project and "grunt watch" to watch CSS files
