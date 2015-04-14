@@ -6,4 +6,5 @@ Basic web template with:
   - sprites
   - combine media queries (cmq) 
   - combine javascript files
+  - JS Hint
 - jQuery 1.11.2
